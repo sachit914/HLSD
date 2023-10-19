@@ -25,3 +25,29 @@
                                             - Ftp             
                                             - smtp
                                             - web socket
+
+
+### client server archictecture
+
+![1](https://github.com/sachit914/HLSD/assets/137917052/84afb168-a2e6-4312-a4c2-256f3cfd7959)
+
+its one way communication
+
+Note: always client makes the initialization to talk with server (http,ftp,smtp)
+
+but web socket is different 
+
+web socket is bi-directional both client and server and can initialize to talk   (used on messaging app like whatapp,telegram)
+![1](https://github.com/sachit914/HLSD/assets/137917052/24b9e4e5-8721-4d0e-8df9-70cd6eed90bb)
+
+### peer to peer 
+
+every thing can talk with each other
+
+![1](https://github.com/sachit914/HLSD/assets/137917052/dd570897-389b-44e5-911b-ed44460e9a00)
+
+
+
+### Transport layer
+
+
