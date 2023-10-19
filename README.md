@@ -50,4 +50,14 @@ every thing can talk with each other
 
 ### Transport layer
 
+                                    transport
+                                        /\
+                                       /  \
+                                      /    \
+                                     /      \
+                               tcp/ip       udp/ip
+
+web rtc uses udp 
+
+video chat feature uses web rtc
 
